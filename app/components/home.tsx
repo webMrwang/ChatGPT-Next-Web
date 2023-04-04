@@ -120,7 +120,8 @@ function _Home() {
             Build your own AI assistant.
           </div>
           <div className={styles["sidebar-logo"]}>
-            <ChatGptIcon />
+            
+						<img className="the_img" src="https://dp-data.obs.cn-south-1.myhuaweicloud.com:443/files%2F6d4c9de070b04c439ecd5fd401f2d54e.png"/>
           </div>
         </div>
 
